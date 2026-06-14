@@ -9,6 +9,6 @@ public class ProfileProdService implements ProfileService {
 
     @Override
     public String message() {
-        return "I'm not using dev profile!";
+        return "I'm NOT using dev profile!";
     }
 }
